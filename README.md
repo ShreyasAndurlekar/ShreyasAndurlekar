@@ -10,8 +10,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShreyasAndurlekar&theme=dark&hide_border=false)<br/>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
 
 
