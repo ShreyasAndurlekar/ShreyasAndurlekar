@@ -7,7 +7,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 # 📶 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShreyasAndurlekar&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats-alpha-one.vercel.app?user=ShreyasAndurlekar&theme=dark)](https://git.io/streak-stats)
 
 
 
